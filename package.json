@@ -1,0 +1,24 @@
+{
+  "name": "promise-polyfill",
+  "version": "1.0.0",
+  "description": "A very small Promise implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clubajax/promise-polyfill.git"
+  },
+  "keywords": [
+    "javascript",
+    "promise",
+    "polyfill"
+  ],
+  "author": "anm9tr@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clubajax/promise-polyfill/issues"
+  },
+  "homepage": "https://github.com/clubajax/promise-polyfill#readme"
+}
