@@ -9,11 +9,11 @@ The difference of this polyfill, is it is automatic. Just use `import`.
 
 ### Install
 
-    npm install clubajax/promise-polyfill --save
+    npm install @clubajax/promise-polyfill --save
 
 ## Usage
 ```jsx harmony
-import 'promise-polyfill';
+import ' @clubajax/promise-polyfill';
 ```
 
 ## License

@@ -1,6 +1,6 @@
 {
   "name": "@clubajax/promise-polyfill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A very small Promise implementation",
   "main": "index.js",
   "scripts": {
